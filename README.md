@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmEj9Pv9jeT-4iw_q-M7nb_bE-e_xEKu71ci-F0ft-4XbHezuyL9ubqNZ3aqcVYU4ixVmkKTTrIQHdaWHHc-F6dJvu2oVewQBgs7YUMAvO6UM4qDkKiLZ_wfEKzZcjLkpl2lk1O-Tj8A4/s0/more-productivity-with-Kotlin-header.png)](https://jatin0434.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)](https://jatin0434.io)
 <h1 align="center">Hi 👋, I'm Jatin Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
