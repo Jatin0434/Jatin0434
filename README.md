@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **express**
 
-- 👨‍💻 All of my projects are available at [https://jatin-kumar-portfolio.netlify.app/]
+- 👨‍💻 All of my projects are available at https://jatin-kumar-portfolio.netlify.app/
 
 - 💬 Ask me about **web development**
 
